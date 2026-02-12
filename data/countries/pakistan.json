@@ -1,0 +1,9 @@
+{
+  "id": "PAK",
+  "name": "Pakistan",
+  "isoCode": "PK",
+  "powerTier": 3,
+  "alliances": ["sco"],
+  "conflicts": [],
+  "description": "Nuclear-armed state with the sixth largest military and a strategic position between South and Central Asia."
+}

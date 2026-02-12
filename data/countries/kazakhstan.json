@@ -1,0 +1,9 @@
+{
+  "id": "KAZ",
+  "name": "Kazakhstan",
+  "isoCode": "KZ",
+  "powerTier": 4,
+  "alliances": ["sco"],
+  "conflicts": [],
+  "description": "Largest Central Asian state with significant oil and uranium reserves, balancing between Russia and China."
+}

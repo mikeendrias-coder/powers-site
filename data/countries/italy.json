@@ -1,0 +1,9 @@
+{
+  "id": "ITA",
+  "name": "Italy",
+  "isoCode": "IT",
+  "powerTier": 3,
+  "alliances": ["nato", "eu"],
+  "conflicts": [],
+  "description": "G7 economy, significant naval power in the Mediterranean, and third largest EU member state."
+}

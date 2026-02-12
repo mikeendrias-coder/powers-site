@@ -1,0 +1,9 @@
+{
+  "id": "YEM",
+  "name": "Yemen",
+  "isoCode": "YE",
+  "powerTier": 5,
+  "alliances": [],
+  "conflicts": ["yemen-houthi"],
+  "description": "Site of protracted civil war with Houthi forces disrupting Red Sea shipping routes."
+}

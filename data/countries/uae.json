@@ -1,0 +1,9 @@
+{
+  "id": "ARE",
+  "name": "United Arab Emirates",
+  "isoCode": "AE",
+  "powerTier": 3,
+  "alliances": ["brics"],
+  "conflicts": [],
+  "description": "Wealthy Gulf state with expanding military reach, major logistics hub, and growing diplomatic influence."
+}

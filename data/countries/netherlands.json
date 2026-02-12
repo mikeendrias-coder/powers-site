@@ -1,0 +1,9 @@
+{
+  "id": "NLD",
+  "name": "Netherlands",
+  "isoCode": "NL",
+  "powerTier": 4,
+  "alliances": ["nato", "eu"],
+  "conflicts": [],
+  "description": "Home to ASML, the sole producer of advanced lithography machines critical to global semiconductor supply chains."
+}

@@ -1,0 +1,9 @@
+{
+  "id": "BEL",
+  "name": "Belgium",
+  "isoCode": "BE",
+  "powerTier": 4,
+  "alliances": ["nato", "eu"],
+  "conflicts": [],
+  "description": "Hosts NATO and EU headquarters in Brussels, giving it outsized institutional influence."
+}

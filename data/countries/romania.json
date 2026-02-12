@@ -1,0 +1,9 @@
+{
+  "id": "ROU",
+  "name": "Romania",
+  "isoCode": "RO",
+  "powerTier": 4,
+  "alliances": ["nato", "eu"],
+  "conflicts": [],
+  "description": "Black Sea NATO member hosting US missile defense systems and bordering Ukraine and Moldova."
+}

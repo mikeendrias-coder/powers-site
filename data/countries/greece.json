@@ -1,0 +1,9 @@
+{
+  "id": "GRC",
+  "name": "Greece",
+  "isoCode": "GR",
+  "powerTier": 4,
+  "alliances": ["nato", "eu"],
+  "conflicts": [],
+  "description": "Controls key Eastern Mediterranean sea lanes with ongoing maritime boundary disputes with Turkey."
+}

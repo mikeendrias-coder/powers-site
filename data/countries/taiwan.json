@@ -1,0 +1,9 @@
+{
+  "id": "TWN",
+  "name": "Taiwan",
+  "isoCode": "TW",
+  "powerTier": 3,
+  "alliances": [],
+  "conflicts": [],
+  "description": "Produces over 90% of the world's advanced semiconductors via TSMC, subject of cross-strait tensions with China."
+}

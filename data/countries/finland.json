@@ -1,0 +1,9 @@
+{
+  "id": "FIN",
+  "name": "Finland",
+  "isoCode": "FI",
+  "powerTier": 4,
+  "alliances": ["nato", "eu"],
+  "conflicts": [],
+  "description": "Shares the longest EU border with Russia, strong reserve mobilization capacity, and recent NATO member."
+}

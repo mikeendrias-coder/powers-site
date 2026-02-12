@@ -1,0 +1,9 @@
+{
+  "id": "SOM",
+  "name": "Somalia",
+  "isoCode": "SO",
+  "powerTier": 5,
+  "alliances": [],
+  "conflicts": [],
+  "description": "Strategically located at the Horn of Africa with ongoing al-Shabaab insurgency and contested port access."
+}

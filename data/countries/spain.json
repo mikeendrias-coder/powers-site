@@ -1,0 +1,9 @@
+{
+  "id": "ESP",
+  "name": "Spain",
+  "isoCode": "ES",
+  "powerTier": 3,
+  "alliances": ["nato", "eu"],
+  "conflicts": [],
+  "description": "Fourth largest EU economy with historical influence in Latin America and a growing defense profile."
+}

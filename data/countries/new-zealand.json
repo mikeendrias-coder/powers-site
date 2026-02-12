@@ -1,0 +1,9 @@
+{
+  "id": "NZL",
+  "name": "New Zealand",
+  "isoCode": "NZ",
+  "powerTier": 4,
+  "alliances": ["five-eyes"],
+  "conflicts": [],
+  "description": "Five Eyes intelligence partner with growing Pacific Islands diplomatic engagement."
+}

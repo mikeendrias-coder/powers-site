@@ -1,0 +1,9 @@
+{
+  "id": "NOR",
+  "name": "Norway",
+  "isoCode": "NO",
+  "powerTier": 4,
+  "alliances": ["nato"],
+  "conflicts": [],
+  "description": "Major European energy supplier, massive sovereign wealth fund, and strategically located on Russia's northern flank."
+}

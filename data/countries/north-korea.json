@@ -1,0 +1,9 @@
+{
+  "id": "PRK",
+  "name": "North Korea",
+  "isoCode": "KP",
+  "powerTier": 4,
+  "alliances": [],
+  "conflicts": [],
+  "description": "Nuclear-armed state with an active ballistic missile program and military cooperation with Russia."
+}

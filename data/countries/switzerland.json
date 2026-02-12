@@ -1,0 +1,9 @@
+{
+  "id": "CHE",
+  "name": "Switzerland",
+  "isoCode": "CH",
+  "powerTier": 4,
+  "alliances": [],
+  "conflicts": [],
+  "description": "Global financial center, traditionally neutral, hosts major international organizations in Geneva."
+}

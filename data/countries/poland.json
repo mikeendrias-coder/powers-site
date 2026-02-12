@@ -1,0 +1,9 @@
+{
+  "id": "POL",
+  "name": "Poland",
+  "isoCode": "PL",
+  "powerTier": 3,
+  "alliances": ["nato", "eu"],
+  "conflicts": [],
+  "description": "Fastest-growing major European military budget, frontline NATO state, and largest Eastern European economy."
+}

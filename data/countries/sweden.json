@@ -1,0 +1,9 @@
+{
+  "id": "SWE",
+  "name": "Sweden",
+  "isoCode": "SE",
+  "powerTier": 4,
+  "alliances": ["nato", "eu"],
+  "conflicts": [],
+  "description": "Major arms exporter, advanced defense industry, and recent NATO member after decades of neutrality."
+}
