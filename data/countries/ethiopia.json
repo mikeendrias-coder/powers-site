@@ -1,0 +1,9 @@
+{
+  "id": "ETH",
+  "name": "Ethiopia",
+  "isoCode": "ET",
+  "powerTier": 4,
+  "alliances": ["brics"],
+  "conflicts": [],
+  "description": "Second most populous African nation with growing regional influence in the Horn of Africa."
+}
