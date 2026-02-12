@@ -1,0 +1,9 @@
+{
+  "id": "PSE",
+  "name": "Palestine",
+  "isoCode": "PS",
+  "powerTier": 5,
+  "alliances": [],
+  "conflicts": [],
+  "description": "Occupied territories comprising the West Bank and Gaza Strip with limited self-governance under the Palestinian Authority."
+}
