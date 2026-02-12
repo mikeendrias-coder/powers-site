@@ -1,0 +1,11 @@
+{
+  "id": "yemen-houthi",
+  "name": "Yemen / Houthi Conflict",
+  "parties": ["YEM"],
+  "supporters": {
+    "YEM": ["SAU", "ARE"],
+    "Houthis": ["IRN"]
+  },
+  "status": "active",
+  "region": "red-sea"
+}
