@@ -1,0 +1,9 @@
+{
+  "id": "USA",
+  "name": "United States",
+  "isoCode": "US",
+  "powerTier": 1,
+  "alliances": ["nato", "aukus", "five-eyes"],
+  "conflicts": ["ukraine"],
+  "description": "Global superpower with the largest military budget and extensive alliance network."
+}

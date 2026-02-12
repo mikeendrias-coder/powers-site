@@ -1,0 +1,11 @@
+{
+  "id": "red-sea",
+  "name": "The Red Sea",
+  "countries": ["YEM", "SAU", "ERI", "DJI", "EGY", "SDN"],
+  "bounds": {
+    "topLeft": [12.0, 32.0],
+    "bottomRight": [28.0, 50.0]
+  },
+  "conflicts": ["yemen-houthi"],
+  "analysis": "content/regions/red-sea.md"
+}

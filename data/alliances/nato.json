@@ -1,0 +1,8 @@
+{
+  "id": "nato",
+  "name": "NATO",
+  "members": ["USA", "GBR", "FRA", "DEU", "CAN", "ITA", "TUR", "POL"],
+  "color": "#3B82F6",
+  "type": "military",
+  "description": "North Atlantic Treaty Organization. Military alliance founded in 1949."
+}

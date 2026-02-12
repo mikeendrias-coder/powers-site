@@ -1,0 +1,11 @@
+{
+  "id": "ukraine",
+  "name": "Ukraine War",
+  "parties": ["RUS", "UKR"],
+  "supporters": {
+    "UKR": ["USA", "GBR", "FRA", "DEU", "POL"],
+    "RUS": ["CHN", "IRN", "PRK"]
+  },
+  "status": "active",
+  "region": "eastern-europe"
+}

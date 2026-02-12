@@ -1,0 +1,19 @@
+{
+  "id": "power-tiers",
+  "name": "Power Tiers",
+  "field": "powerTier",
+  "colorScale": {
+    "1": "#DC2626",
+    "2": "#EA580C",
+    "3": "#CA8A04",
+    "4": "#65A30D",
+    "5": "#94A3B8"
+  },
+  "legend": [
+    { "label": "Tier 1 — Superpower", "color": "#DC2626" },
+    { "label": "Tier 2 — Great Power", "color": "#EA580C" },
+    { "label": "Tier 3 — Regional Power", "color": "#CA8A04" },
+    { "label": "Tier 4 — Middle Power", "color": "#65A30D" },
+    { "label": "Tier 5 — Minor Power", "color": "#94A3B8" }
+  ]
+}

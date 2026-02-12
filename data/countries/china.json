@@ -1,0 +1,9 @@
+{
+  "id": "CHN",
+  "name": "China",
+  "isoCode": "CN",
+  "powerTier": 1,
+  "alliances": ["brics", "sco"],
+  "conflicts": ["south-china-sea"],
+  "description": "Rising global power with the second largest economy and growing military capabilities."
+}
