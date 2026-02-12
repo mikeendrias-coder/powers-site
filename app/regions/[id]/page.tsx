@@ -1,4 +1,5 @@
 import { getAllRegions, getRegion, getRegionAnalysis, getAllCountries, getAllAlliances, getAllConflicts, getLayerConfig, buildCountryLookup } from "@/lib/dataLoader";
+import RegionMap from "@/components/RegionMap";
 import ReactMarkdown from "react-markdown";
 import Link from "next/link";
 
@@ -28,31 +29,30 @@ export default function RegionPage({ params }: { params: { id: string } }) {
 
   return (
     <div className="min-h-screen">
-      {/* Region header */}
-      <div className="relative h-[50vh] bg-bg-secondary flex items-end">
-        <div className="absolute inset-0 opacity-[0.03]"
-          style={{
-            backgroundImage:
-              "linear-gradient(rgba(255,255,255,0.1) 1px, transparent 1px), linear-gradient(90deg, rgba(255,255,255,0.1) 1px, transparent 1px)",
-            backgroundSize: "40px 40px",
-          }}
-        />
-        <div className="relative z-10 max-w-4xl mx-auto w-full px-8 pb-12">
-          <Link href="/" className="text-xs font-mono text-accent-blue hover:text-white transition-colors mb-4 inline-block">
-            &larr; Back to world map
-          </Link>
-          <h1 className="font-display text-5xl font-bold text-white tracking-tight mb-3">
-            {region.name}
-          </h1>
-          <div className="flex items-center gap-3 flex-wrap">
-            {region.countries.map((code) => (
-              <span
-                key={code}
-                className="text-xs font-mono px-2 py-1 bg-white/5 border border-white/10 rounded text-slate-400"
-              >
-                {code}
-              </span>
-            ))}
+      {/* Region header with map */}
+      <div className="relative h-[50vh] bg-bg-secondary overflow-hidden">
+        <div className="absolute inset-0 z-0">
+          <RegionMap bounds={region.bounds} regionCountries={region.countries} />
+        </div>
+        <div className="absolute inset-0 bg-gradient-to-t from-bg-primary via-bg-primary/40 to-transparent z-10" />
+        <div className="relative z-20 h-full flex items-end">
+          <div className="max-w-4xl mx-auto w-full px-8 pb-12">
+            <Link href="/" className="text-xs font-mono text-accent-blue hover:text-white transition-colors mb-4 inline-block">
+              &larr; Back to world map
+            </Link>
+            <h1 className="font-display text-5xl font-bold text-white tracking-tight mb-3">
+              {region.name}
+            </h1>
+            <div className="flex items-center gap-3 flex-wrap">
+              {region.countries.map((code) => (
+                <span
+                  key={code}
+                  className="text-xs font-mono px-2 py-1 bg-white/5 border border-white/10 rounded text-slate-400"
+                >
+                  {code}
+                </span>
+              ))}
+            </div>
           </div>
         </div>
       </div>
