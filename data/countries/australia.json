@@ -1,0 +1,9 @@
+{
+  "id": "AUS",
+  "name": "Australia",
+  "isoCode": "AU",
+  "powerTier": 3,
+  "alliances": ["aukus", "five-eyes"],
+  "conflicts": [],
+  "description": "Major US ally in the Indo-Pacific with significant mineral exports and growing defense spending."
+}
