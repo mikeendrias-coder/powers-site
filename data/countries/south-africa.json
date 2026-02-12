@@ -1,0 +1,9 @@
+{
+  "id": "ZAF",
+  "name": "South Africa",
+  "isoCode": "ZA",
+  "powerTier": 3,
+  "alliances": ["brics"],
+  "conflicts": [],
+  "description": "Largest and most industrialized sub-Saharan economy with significant mineral reserves."
+}
