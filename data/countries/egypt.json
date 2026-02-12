@@ -1,0 +1,9 @@
+{
+  "id": "EGY",
+  "name": "Egypt",
+  "isoCode": "EG",
+  "powerTier": 3,
+  "alliances": ["brics"],
+  "conflicts": [],
+  "description": "Controls the Suez Canal, largest Arab military, and key mediator in Middle Eastern conflicts."
+}
