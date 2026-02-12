@@ -1,0 +1,9 @@
+{
+  "id": "BRA",
+  "name": "Brazil",
+  "isoCode": "BR",
+  "powerTier": 2,
+  "alliances": ["brics"],
+  "conflicts": [],
+  "description": "Largest South American economy, major agricultural exporter, and BRICS founding member."
+}
