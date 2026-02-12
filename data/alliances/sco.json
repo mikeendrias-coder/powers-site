@@ -1,0 +1,8 @@
+{
+  "id": "sco",
+  "name": "Shanghai Cooperation Organisation",
+  "members": ["CHN", "RUS", "IND", "PAK", "KAZ", "UZB", "IRN"],
+  "color": "#10B981",
+  "type": "political-security",
+  "description": "Eurasian security and economic bloc led by China and Russia."
+}

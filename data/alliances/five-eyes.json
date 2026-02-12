@@ -1,0 +1,8 @@
+{
+  "id": "five-eyes",
+  "name": "Five Eyes",
+  "members": ["USA", "GBR", "CAN", "AUS", "NZL"],
+  "color": "#8B5CF6",
+  "type": "intelligence",
+  "description": "Intelligence-sharing alliance between the US, UK, Canada, Australia, and New Zealand."
+}

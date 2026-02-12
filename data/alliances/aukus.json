@@ -1,0 +1,8 @@
+{
+  "id": "aukus",
+  "name": "AUKUS",
+  "members": ["AUS", "GBR", "USA"],
+  "color": "#06B6D4",
+  "type": "military-technology",
+  "description": "Trilateral security pact focused on nuclear submarine technology and advanced capability sharing in the Indo-Pacific."
+}
