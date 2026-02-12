@@ -1,0 +1,9 @@
+{
+  "id": "TUR",
+  "name": "Turkey",
+  "isoCode": "TR",
+  "powerTier": 3,
+  "alliances": ["nato"],
+  "conflicts": [],
+  "description": "NATO member with significant regional influence across the Middle East, Caucasus, and Central Asia."
+}

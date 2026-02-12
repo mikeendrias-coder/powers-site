@@ -1,0 +1,8 @@
+{
+  "id": "eu",
+  "name": "European Union",
+  "members": ["FRA", "DEU", "ITA", "ESP", "NLD", "POL", "BEL", "AUT", "SWE", "IRL"],
+  "color": "#6366F1",
+  "type": "political-economic",
+  "description": "Supranational political and economic union of 27 European member states."
+}

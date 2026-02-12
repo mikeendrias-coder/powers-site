@@ -1,0 +1,8 @@
+{
+  "id": "brics",
+  "name": "BRICS",
+  "members": ["CHN", "RUS", "IND", "BRA", "ZAF", "IRN", "EGY", "ETH", "SAU", "ARE"],
+  "color": "#CA8A04",
+  "type": "economic",
+  "description": "Bloc of major emerging economies expanding membership and de-dollarization agenda."
+}

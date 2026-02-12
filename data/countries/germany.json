@@ -1,0 +1,9 @@
+{
+  "id": "DEU",
+  "name": "Germany",
+  "isoCode": "DE",
+  "powerTier": 3,
+  "alliances": ["nato", "eu"],
+  "conflicts": [],
+  "description": "Largest European economy, major NATO contributor, significant industrial and export base."
+}

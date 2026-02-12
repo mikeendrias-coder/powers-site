@@ -1,0 +1,9 @@
+{
+  "id": "IRN",
+  "name": "Iran",
+  "isoCode": "IR",
+  "powerTier": 3,
+  "alliances": ["brics"],
+  "conflicts": [],
+  "description": "Regional power with extensive proxy networks across the Middle East and growing missile capabilities."
+}

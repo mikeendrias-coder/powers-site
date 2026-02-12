@@ -1,0 +1,9 @@
+{
+  "id": "FRA",
+  "name": "France",
+  "isoCode": "FR",
+  "powerTier": 2,
+  "alliances": ["nato", "eu"],
+  "conflicts": [],
+  "description": "Nuclear power, permanent UNSC member, major force projection capability in Africa and Indo-Pacific."
+}

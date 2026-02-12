@@ -1,0 +1,9 @@
+{
+  "id": "UKR",
+  "name": "Ukraine",
+  "isoCode": "UA",
+  "powerTier": 4,
+  "alliances": [],
+  "conflicts": ["ukraine"],
+  "description": "Frontline state in the largest European land war since 1945."
+}

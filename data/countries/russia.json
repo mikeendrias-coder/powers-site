@@ -1,0 +1,9 @@
+{
+  "id": "RUS",
+  "name": "Russia",
+  "isoCode": "RU",
+  "powerTier": 2,
+  "alliances": ["brics", "sco", "csto"],
+  "conflicts": ["ukraine"],
+  "description": "Nuclear power with extensive energy exports and permanent UN Security Council seat."
+}

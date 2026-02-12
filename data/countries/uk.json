@@ -1,0 +1,9 @@
+{
+  "id": "GBR",
+  "name": "United Kingdom",
+  "isoCode": "GB",
+  "powerTier": 2,
+  "alliances": ["nato", "five-eyes", "aukus"],
+  "conflicts": ["ukraine"],
+  "description": "Nuclear power, permanent UNSC member, significant financial and intelligence capabilities."
+}

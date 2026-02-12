@@ -1,0 +1,9 @@
+{
+  "id": "IND",
+  "name": "India",
+  "isoCode": "IN",
+  "powerTier": 2,
+  "alliances": ["brics", "sco"],
+  "conflicts": [],
+  "description": "Nuclear power, largest population, rapidly growing economy and military modernization."
+}
