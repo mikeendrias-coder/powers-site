@@ -1,0 +1,9 @@
+{
+  "id": "CAN",
+  "name": "Canada",
+  "isoCode": "CA",
+  "powerTier": 3,
+  "alliances": ["nato", "five-eyes"],
+  "conflicts": [],
+  "description": "G7 member with vast natural resources, close US economic integration, and Arctic territorial claims."
+}
